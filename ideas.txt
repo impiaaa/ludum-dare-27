@@ -1,0 +1,6 @@
+GOALS:
+Highest combo
+Avoid enemies
+Kill many enemies
+Don't touch the ground
+Kill <color> enemies
